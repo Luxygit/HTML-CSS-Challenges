@@ -32,13 +32,15 @@ Change the heading of this section to ‘Tiger Facts’, remove the subheading, 
 
 Change the background colour to #483C46, the section titles to #F4743B, and the paragraph color to #BEEE62.
 
-Make the first paragraph have a larger font size. \***\*\*\*** TO DOOO **\*\***
+Make the first paragraph have a larger font size.
 
 ## 5) News
 
 Can the title of this section be centred in the middle of this page?
 
 Add another news item with the title with today's date, and the title of ‘Which big cat are you?’
+
+----- DONE UNTIL HERE -------
 
 ## 6) Learning
 

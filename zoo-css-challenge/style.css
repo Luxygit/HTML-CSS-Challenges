@@ -175,6 +175,9 @@ h3 {
   display: inline-block;
   margin-bottom: 10px;
 }
+.news > h2 {
+  text-align: center;
+}
 
 /*Education*/
 
