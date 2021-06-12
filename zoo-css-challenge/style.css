@@ -157,16 +157,18 @@ h3 {
   color: #ffffff;
 }
 
-.dinotable, th {
-border-color: #fff;
-border-radius: 10px;
-border: 1px solid;
-padding-right: 5px;
-padding-left: 5px;
-margin:auto;
+.dinotable,
+th {
+  border-color: #fff;
+  border-radius: 10px;
+  border: 1px solid;
+  padding-right: 5px;
+  padding-left: 5px;
+  margin: auto;
 }
 
-td, th {
+td,
+th {
   padding: 10px;
   text-align: center;
 }
@@ -185,7 +187,7 @@ td, th {
   background-color: white;
   padding: 20px;
   margin: 10px;
-  width: 30%;
+  width: 29%;
   border: 1px solid black;
   border-radius: 10px;
 }
@@ -225,7 +227,7 @@ td, th {
   max-width: 400px;
 }
 
-.education-container > button{
+.education-container > button {
   font-size: 1.5em;
   border-radius: 20px;
 }
@@ -237,7 +239,6 @@ td, th {
 .education-container > button:focus {
   background-color: #50e776;
 }
-
 
 .education-container h3,
 .education-container p {
@@ -264,6 +265,5 @@ td, th {
 /*Programs*/
 
 .programs .card {
-  display: inline-block;
-  width: 25%;
+  width: 29%;
 }
